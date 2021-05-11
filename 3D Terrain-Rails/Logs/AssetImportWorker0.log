@@ -1,0 +1,213 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'ru' Physical Memory: 8087 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/rinay/OneDrive/Рабочий стол/3DTerrain-Rail/3dterrainrail/3D Terrain-Rails
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62364
+Successfully changed project path to: C:/Users/rinay/OneDrive/Рабочий стол/3DTerrain-Rail/3dterrainrail/3D Terrain-Rails
+C:/Users/rinay/OneDrive/Рабочий стол/3DTerrain-Rail/3dterrainrail/3D Terrain-Rails
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rinay/OneDrive/Рабочий стол/3DTerrain-Rail/3dterrainrail/3D Terrain-Rails/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134b)
+    Vendor:   
+    VRAM:     987 MB
+    Driver:   24.21.13.9731
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56608
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003532 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 34.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.993 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001025 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.237 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.1 MB.
+System memory in use after: 70.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 4.304200 ms (FindLiveObjects: 0.997100 ms CreateObjectMapping: 0.158900 ms MarkObjects: 3.002100 ms  DeleteObjects: 0.143500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Stylize Terrain Texture/Textures/Vol_19_4_Roughness.png
+  artifactKey: Guid(0c454ba922aedb9419fd6ed6875cb63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Terrain Texture/Textures/Vol_19_4_Roughness.png using Guid(0c454ba922aedb9419fd6ed6875cb63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a14c3053784e1a8d852db74b2ef778c') in 0.172915 seconds
+  Import took 0.176397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/Stylize Terrain Texture/Textures/Vol_19_4_Height.png
+  artifactKey: Guid(8a227c50dab076244a3682b6594cefd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Terrain Texture/Textures/Vol_19_4_Height.png using Guid(8a227c50dab076244a3682b6594cefd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67528e6a66438ce95a83d6f00cc80d75') in 0.052198 seconds
+  Import took 0.056314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Stylize Terrain Texture/Textures/Vol_19_4_Normal.png
+  artifactKey: Guid(5d1a91da624cbe3419894ef66da10da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Terrain Texture/Textures/Vol_19_4_Normal.png using Guid(5d1a91da624cbe3419894ef66da10da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e6290c300ab4ecf8715dad07e5b39e3') in 0.096815 seconds
+  Import took 0.102051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Stylize Terrain Texture/Textures/Vol_19_4_Ambient_Occlusion.png
+  artifactKey: Guid(76400e21d2b92c24ebe4a922cb01a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Terrain Texture/Textures/Vol_19_4_Ambient_Occlusion.png using Guid(76400e21d2b92c24ebe4a922cb01a517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4fe1924cc4170510da2a39354e19809') in 0.050924 seconds
+  Import took 0.057107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Stylize Terrain Texture/Textures/Vol_19_4_Base_Color.png
+  artifactKey: Guid(bd7d0d213a99c4b45ab6bc5789ca5f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Terrain Texture/Textures/Vol_19_4_Base_Color.png using Guid(bd7d0d213a99c4b45ab6bc5789ca5f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5cbb9eaa91ee28e52f4911fce4cb824') in 0.039131 seconds
+  Import took 0.043436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.182064 seconds.
+  path: Assets/Stylize Terrain Texture/Textures
+  artifactKey: Guid(70867da6bf5f23744b22677a580e0ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylize Terrain Texture/Textures using Guid(70867da6bf5f23744b22677a580e0ad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7f6ea267dae775537b74751c502e49') in 0.013185 seconds
+  Import took 0.016766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.351630 seconds.
+  path: Assets/NewBrush.brush
+  artifactKey: Guid(0450a6228078cbf41b84a1ede2f0da56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBrush.brush using Guid(0450a6228078cbf41b84a1ede2f0da56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a1dbdd9d7a53657b135b6178cba855') in 0.062379 seconds
+  Import took 0.066545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002174 seconds.
+  path: Assets/NewBrush.brush
+  artifactKey: Guid(0450a6228078cbf41b84a1ede2f0da56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBrush.brush using Guid(0450a6228078cbf41b84a1ede2f0da56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a1dbdd9d7a53657b135b6178cba855') in 0.026272 seconds
+  Import took 0.029310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.236305 seconds.
+  path: Assets/NewBrush 1.brush
+  artifactKey: Guid(86b2095bc15f1ce47895c049a1926560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBrush 1.brush using Guid(86b2095bc15f1ce47895c049a1926560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80009e500e498ece6cc8dd79e19f452e') in 0.038676 seconds
+  Import took 0.043089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002424 seconds.
+  path: Assets/NewBrush 1.brush
+  artifactKey: Guid(86b2095bc15f1ce47895c049a1926560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBrush 1.brush using Guid(86b2095bc15f1ce47895c049a1926560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80009e500e498ece6cc8dd79e19f452e') in 0.047262 seconds
+  Import took 0.052382 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.029408 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 103.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.252 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1300 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.3 MB.
+System memory in use after: 81.9 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 1750.
+Total: 5.358300 ms (FindLiveObjects: 0.905100 ms CreateObjectMapping: 0.118500 ms MarkObjects: 2.262700 ms  DeleteObjects: 2.069300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.265002 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(9f3da37c37c5e094eaccc829c13f26d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(9f3da37c37c5e094eaccc829c13f26d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4a09d48a1627a24898382479e87bbf8') in 0.040545 seconds
+  Import took 0.044221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.810971 seconds.
+  path: Assets/NewBrush 2.brush
+  artifactKey: Guid(4d81d81e7949d2d4c99aa7e7e5a2d393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBrush 2.brush using Guid(4d81d81e7949d2d4c99aa7e7e5a2d393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a98b461fc3048a023190ad8443cf04') in 0.086352 seconds
+  Import took 0.091963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002293 seconds.
+  path: Assets/NewBrush 2.brush
+  artifactKey: Guid(4d81d81e7949d2d4c99aa7e7e5a2d393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewBrush 2.brush using Guid(4d81d81e7949d2d4c99aa7e7e5a2d393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a98b461fc3048a023190ad8443cf04') in 0.034417 seconds
+  Import took 0.040509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.091098 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(365cfc5375445a7488cc7ed9c8b1ae2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(365cfc5375445a7488cc7ed9c8b1ae2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84961cafad31ab64447748500a8330cd') in 0.058578 seconds
+  Import took 0.062978 seconds .
+
