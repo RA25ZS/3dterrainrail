@@ -131,3 +131,4 @@ Received Import Request.
 Start importing Assets/PlayerTimeline.playable using Guid(b34dc8e063987d5469bc2bda46b99afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f49148e98f8df725d86eacc6bbb96b4a') in 0.017880 seconds
   Import took 0.023057 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
